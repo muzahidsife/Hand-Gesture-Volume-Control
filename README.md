@@ -1,4 +1,4 @@
-![Hand Gesture Volume Control Demo](images/demo.PNG)
+![Hand Gesture Volume Control Demo](https://github.com/muzahidsife/Hand-Gesture-Volume-Control/raw/main/demo.PNG)
 
 
 # Hand Gesture Volume Control
