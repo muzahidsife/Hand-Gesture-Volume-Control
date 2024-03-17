@@ -1,4 +1,4 @@
-![Hand Gesture Volume Control Demo](images/demo.png)
+![Hand Gesture Volume Control Demo](images/demo.PNG)
 
 
 # Hand Gesture Volume Control
